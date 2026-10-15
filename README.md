@@ -19,7 +19,9 @@ permission to use the microphone.
 and then records exactly one loop.
 
 3. Tap the next track and add the next layer. Use the tutorial in the
-settings (⚙) to walk through everything step by step. ## Features
+settings (⚙) to walk through everything step by step.
+
+## Features
 **Recording**
 1. 6 tracks, each with independent volume, mute, erase, and record controls
 2. Record with a one-bar count-in, or start immediately without waiting
@@ -72,11 +74,6 @@ settings (⚙) to walk through everything step by step. ## Features
 5. Icons with tooltips; labels optional
 6. Select your own microphone and speakers, with a Adjustable input level
 7. A built-in tutorial
-
-**Using it together**
-1. Share the `looper.html` file. Everyone opens it in their own browser.
-2. Everyone uses their own headphones; otherwise, the microphone will pick up the click track.
-3. Settings and projects are stored locally on each device. Share a project via a Looper file.
 
 ## Good to know
 1. Looper features 6 mono recording tracks.
